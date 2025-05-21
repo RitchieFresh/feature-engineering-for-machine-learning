@@ -41,3 +41,5 @@ If you have a Kaggle account already, skip these steps.
 - Unzip the downloaded folder.
 
 - Rename the file train.csv.zip to houseprice.csv.
+
+1.3.6.6. Gallery of Distributions - https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm
